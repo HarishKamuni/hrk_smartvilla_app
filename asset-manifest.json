@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hrk_smartvilla_app/static/css/main.521d886d.css",
+    "main.js": "/hrk_smartvilla_app/static/js/main.b1c9b836.js",
+    "static/media/Questrial-Regular.ttf": "/hrk_smartvilla_app/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/404.png": "/hrk_smartvilla_app/static/media/404.27df96fefd06d8c3b5b0.png",
+    "index.html": "/hrk_smartvilla_app/index.html",
+    "main.521d886d.css.map": "/hrk_smartvilla_app/static/css/main.521d886d.css.map",
+    "main.b1c9b836.js.map": "/hrk_smartvilla_app/static/js/main.b1c9b836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521d886d.css",
+    "static/js/main.b1c9b836.js"
+  ]
+}
